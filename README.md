@@ -6,7 +6,7 @@ Excel-Makro (VBA) zur optimierten Verteilung von Schülern auf Klassen.
 
 | Datei | Beschreibung |
 |---|---|
-| `Klassenverteilungsoptimierer_V2.xlsm` | Excel-Datei mit allen Makros |
+| `Klassenverteilungsoptimierer_V5.xlsm` | Excel-Datei mit allen Makros |
 | `Modul2.bas` | VBA-Quellcode (importierbar) |
 | `Gebrauchsanleitung_Klassenverteilungsoptimierer_V2.docx` | Vollständige Dokumentation |
 | `Kurzanleitung_Klassenverteilungsoptimierer_V2.docx` | Kurzreferenz für den täglichen Einsatz |
